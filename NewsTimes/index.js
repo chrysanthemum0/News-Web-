@@ -1,5 +1,4 @@
-// API KEY [memo] kMNwfzPPNCLvwAE5itr23JzQPhMNc2JLlcurCqxNsZo
-// API URL https://api.newscatcherapi.com/v2/latest_headlines?countries=KR&topic=business&page_size=10
+
 // https://app.newscatcherapi.com/dashboard/
 // this api will be expired in 30 days 230502
 
