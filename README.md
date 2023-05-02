@@ -15,5 +15,5 @@ pagenation으로 다음 뉴스정보를 받아볼 수 있음
 원본 
 <img width="943" alt="원본" src="https://user-images.githubusercontent.com/77311928/235587614-adcd9ddf-ed77-4041-ac79-20c094285866.png">
 
-제작 프로젝트 <--검색 기능 어케하냐
+제작 프로젝트 <--검색 기능... 추가해야되는데..
 <img width="949" alt="제작" src="https://user-images.githubusercontent.com/77311928/235587622-24da95e6-d5bc-4962-bbb6-056c58a0b875.png">
